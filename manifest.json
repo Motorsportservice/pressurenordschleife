@@ -1,2 +1,1 @@
-{"name":"Reifendruck Track Tool","short_name":"Reifendruck","start_url":"./index.html","display":"standalone","background_color":"#101820","theme_color":"#101820","description":"Rennstrecken-Reifendruck berechnen und Stints protokollieren","icons":[{"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]}
-
+{"name":"Reifendruck Track Tools","short_name":"Reifendruck","start_url":"./index.html","display":"standalone","background_color":"#101820","theme_color":"#101820","description":"Reifendruckrechner für Porsche 992 Cup, Cayman und GT3 R","icons":[{"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]}
